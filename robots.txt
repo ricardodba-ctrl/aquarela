@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ricardodba-ctrl.github.io/aquarela/sitemap.xml
